@@ -1,0 +1,266 @@
+[ 284.17001776  487.38267126  175.90793045   55.99825296   22.03252524
+   58.17003726]
+[ 608.30062652  884.64220824  335.89598933  108.91844837   45.69454829
+  102.19921338]
+[ 359.9685804   469.26833225  343.1417436   104.05800707   31.04556966
+   42.02184497]
+[ 345.72371714  367.6967527   151.31515662   50.67087783   24.13841581
+   40.55487273]
+[ 547.14434617  413.38117981  257.18141667  110.46923829   56.33750467
+   38.63460359]
+[ 902.39170987  545.21822629  326.07364049  135.62071797  105.37307407
+   51.56764411]
+[ 0.00242415  0.05944641  0.57899532  0.87459058  0.04838793  0.05756853]
+[ 0.22501266  0.97426952  2.31674758  0.43945657  0.29871588  0.26450125]
+[  6.85804055e-02   1.83055145e-01   4.33819048e-02   3.23360004e-05
+   7.90656452e-01   5.89741538e-01]
+[ 0.27348623  2.56268411  1.83976282  2.5329936   0.33923784  0.73109368]
+[  1.33811758e-03   4.19014285e+00   2.27365149e+00   3.43128318e+00
+   1.54761901e+00   4.93254338e-01]
+[  4.10040205e-04   1.56580376e+00   8.78640928e-01   2.22708926e+00
+   2.03168065e-01   4.11529862e+00]
+debug first 10 rows of error[[  2.42414918e-03   5.94464096e-02   5.78995316e-01   8.74590580e-01
+    4.83879340e-02   5.75685318e-02]
+ [  2.25012656e-01   9.74269517e-01   2.31674758e+00   4.39456572e-01
+    2.98715877e-01   2.64501251e-01]
+ [  6.85804055e-02   1.83055145e-01   4.33819048e-02   3.23360004e-05
+    7.90656452e-01   5.89741538e-01]
+ [  2.73486227e-01   2.56268411e+00   1.83976282e+00   2.53299360e+00
+    3.39237843e-01   7.31093676e-01]
+ [  1.33811758e-03   4.19014285e+00   2.27365149e+00   3.43128318e+00
+    1.54761901e+00   4.93254338e-01]
+ [  4.10040205e-04   1.56580376e+00   8.78640928e-01   2.22708926e+00
+    2.03168065e-01   4.11529862e+00]]sums of row errors
+Labour Party – PvdA,Labour Party – PvdA,Christian Democrats – CDA,Right Wing Liberals – VVD,Left Wing Liberals – D66,Left-various,Right – various mostly religious
+Rural,    1.62141291976
+Rural, Industrialized,    4.51870345284
+Commuter,    1.67544778072
+Small City,    8.27925827283
+Middle Large City,    11.9372889945
+Large City,    8.99041067189
+TO BE DEBUGGED:  sums of column errors
+0.0
+1.62141291976
+6.1401163726
+7.81556415332
+16.0948224261
+28.0321114206
+row_coordinates
+6
+1
+0.183956155851,
+0.206872125956,
+0.118855717242,
+0.267953963644,
+0.0399869131285,
+-0.00107734366302,
+col_coordinates
+6
+1
+-0.651388306952,
+0.16392046413,
+0.121208831316,
+0.0966587266997,
+-0.116969545927,
+0.181,
+row_multipliers
+6
+1
+5.89817344821,
+12.9263457644,
+6.96506088854,
+7.80110025587,
+9.65087171268,
+15.1106560892,
+col_multipliers
+6
+1
+44.5105418412,
+9.58396116747,
+4.79189249748,
+1.7668113606,
+1.5028453709,
+0.965588822584,
+row_effects
+6
+1
+2.56026824851,
+3.69224258251,
+2.80013596492,
+2.96367761394,
+3.27065925935,
+3.91749439709,
+col_effects
+6
+1
+5.47607515818,
+3.26062206259,
+2.26059554271,
+0.821148014052,
+0.587696576715,
+-0.0505191189772,
+scale_factor_multipliers
+1 ,
+1.00 ,
+coefficients_of_polynomial_starting_at_1
+1,
+0.956874236026
+error
+37.0225220925
+Minkowski parameter
+1,
+1,
+2.0
+minkowski_power
+1,
+1,
+2.0
+attenuation_power
+1,
+1,
+0.956874236026
+d_start
+1,
+1,
+0.0852150625033
+mod_form
+1,
+1,
+i
+mod_type
+1,
+1,
+rectangular
+mod_form
+1,
+1,
+i
+ndim
+1,
+1,
+1
+use_diagonal
+1,
+1,
+True
+
+Coordinates, sums, sums of errors with respect to standard row/column null model
+sums of errors with respect to dimensional solution.
+
+                                                 Err      Err
+ Item (   Mult ) log2(Mult)  Dim 0      R Sum    to null  to model  Name
+    1 (   5.898)    2.560    0.184    1083.000    65.450     1.621  Rural
+    2 (  12.926)    3.692    0.207    2083.000    84.486     4.519  Rural, Industrialized
+    3 (   6.965)    2.800    0.119    1349.000    79.011     1.675  Commuter
+    4 (   7.801)    2.964    0.268     976.000     3.648     8.279  Small City
+    5 (   9.651)    3.271    0.040    1417.000    16.239    11.937  Middle Large City
+    6 (  15.111)    3.917   -0.001    2062.000   176.674     8.990  Large City
+
+                                                 Err      Err
+ Item (   Mult ) log2(Mult)  Dim 0      R Sum    to null  to model  Name
+    1 (  44.511)    5.476   -0.651    3047.000   120.643     0.571  Labour Party – PvdA
+    2 (   9.584)    3.261    0.164    3164.000   136.013     9.535  Christian Democrats – CDA
+    3 (   4.792)    2.261    0.121    1585.000    62.034     7.931  Right Wing Liberals – VVD
+    4 (   1.767)    0.821    0.097     561.000    20.445     9.505  Left Wing Liberals – D66
+    5 (   1.503)    0.588   -0.117     283.000    46.282     3.228  Left-various
+    6 (   0.966)   -0.051    0.181     330.000    40.093     6.251  Right – various mostly religious
+check debugging to line 2508
+
+Output with tabs -- suitable for Excel.
+Table shows observed values with:
+    Coordinates,
+    sums,
+    sums of errors with respect to standard row/column null model
+    and sums of errors with respect to dimensional solution.
+
+begin observed
+	Labou 	Chris 	Right 	Left  	Left- 	Right 	    	    	        Err  	Err	Name
+	r Par 	tian  	 Wing 	Wing  	vario 	 –  	  Dim0        	    Sum	    to null 	    to model	  Name
+	 285.0	 482.0	 186.0	  49.0	  21.0	  60.0	   0.184	1083.000	  65.450	   1.621	Rural
+	 620.0	 914.0	 308.0	 102.0	  42.0	  97.0	   0.207	2083.000	  84.486	   4.519	Rural, Industrialized
+	 355.0	 460.0	 347.0	 104.0	  36.0	  47.0	   0.119	1349.000	  79.011	   1.675	Commuter
+	 336.0	 337.0	 168.0	  62.0	  27.0	  46.0	   0.268	 976.000	   3.648	   8.279	Small City
+	 548.0	 455.0	 233.0	  91.0	  47.0	  43.0	   0.040	1417.000	  16.239	  11.937	Middle Large City
+	 903.0	 516.0	 343.0	 153.0	 110.0	  37.0	  -0.001	2062.000	 176.674	   8.990	Large City
+	  -0.651	   0.164	   0.121	   0.097	  -0.117	   0.181
+	3047.000	3164.000	1585.000	 561.000	 283.000	 330.000
+	 120.643	 136.013	  62.034	  20.445	  46.282	  40.093
+	   0.571	   9.535	   7.931	   9.505	   3.228	   6.251
+	Labour Party – PvdA	Christian Democrats – CDA	Right Wing Liberals – VVD	Left Wing Liberals – D66	Left-various	Right – various mostly religious
+
+
+
+Output with tabs -- suitable for Excel.
+Table shows kludged predicted values plus stuff to be cleaned up
+Plus:
+    Coordinates,
+    sums,
+    sums of errors with respect to standard row/column null model
+    and sums of errors with respect to dimensional solution.
+
+Begin kludged predicted wrt model
+	Labou 	Chris 	Right 	Left  	Left- 	Right 	    	    	        Err  	Err	Name
+	r Par 	tian  	 Wing 	Wing  	vario 	 –  	  Dim0        	    Sum	    to null 	    to model	  Name
+	 284.2	 487.4	 175.9	  56.0	  22.0	  58.2	   0.184	1083.000	  65.450	   1.621	Rural
+	 608.3	 884.6	 335.9	 108.9	  45.7	 102.2	   0.207	2083.000	  84.486	   4.519	Rural, Industrialized
+	 360.0	 469.3	 343.1	 104.1	  31.0	  42.0	   0.119	1349.000	  79.011	   1.675	Commuter
+	 345.7	 367.7	 151.3	  50.7	  24.1	  40.6	   0.268	 976.000	   3.648	   8.279	Small City
+	 547.1	 413.4	 257.2	 110.5	  56.3	  38.6	   0.040	1417.000	  16.239	  11.937	Middle Large City
+	 902.4	 545.2	 326.1	 135.6	 105.4	  51.6	  -0.001	2062.000	 176.674	   8.990	Large City
+	  -0.651	   0.164	   0.121	   0.097	  -0.117	   0.181
+	3047.000	3164.000	1585.000	 561.000	 283.000	 330.000
+	 120.643	 136.013	  62.034	  20.445	  46.282	  40.093
+	   0.571	   9.535	   7.931	   9.505	   3.228	   6.251
+	Labour Party – PvdA	Christian Democrats – CDA	Right Wing Liberals – VVD	Left Wing Liberals – D66	Left-various	Right – various mostly religious
+
+
+
+Output with tabs -- suitable for Excel.
+Table shows DEVIATIONS from STANDARD NULL MODEL  (NULL=(row sum)*(column sum)/total.)
+Plus:
+    Coordinates,
+    sums,
+    sums of errors with respect to standard row/column null model
+    and sums of errors with respect to dimensional solution.
+
+begin errors compared to standard rc-null
+	Labou 	Chris 	Right 	Left  	Left- 	Right 	    	    	        Err  	Err	Name
+	r Par 	tian  	 Wing 	Wing  	vario 	 –  	  Dim0        	    Sum	    to null 	    to model	  Name
+	  18.7	  26.2	   0.2	   5.2	   5.1	  10.2	   0.184	1083.000	  65.450	   1.621	Rural
+	  10.8	  43.7	   9.8	   6.1	   8.6	   5.4	   0.207	2083.000	  84.486	   4.519	Rural, Industrialized
+	  23.3	   0.5	  49.5	   4.6	   1.0	   0.1	   0.119	1349.000	  79.011	   1.675	Commuter
+	   0.1	   0.2	   0.1	   0.0	   0.5	   2.8	   0.268	 976.000	   3.648	   8.279	Small City
+	   9.2	   4.0	   1.2	   0.1	   0.1	   1.6	   0.040	1417.000	  16.239	  11.937	Middle Large City
+	  58.6	  61.4	   1.3	   4.5	  31.1	  19.9	  -0.001	2062.000	 176.674	   8.990	Large City
+	  -0.651	   0.164	   0.121	   0.097	  -0.117	   0.181
+	3047.000	3164.000	1585.000	 561.000	 283.000	 330.000
+	 120.643	 136.013	  62.034	  20.445	  46.282	  40.093
+	   0.571	   9.535	   7.931	   9.505	   3.228	   6.251
+	Labour Party – PvdA	Christian Democrats – CDA	Right Wing Liberals – VVD	Left Wing Liberals – D66	Left-various	Right – various mostly religious
+
+
+
+Output with tabs -- suitable for Excel.
+Table shows DEVIATIONS from FITTED MODEL.
+Plus:
+    Coordinates,
+    sums,
+    sums of errors with respect to standard row/column null model
+    and sums of errors with respect to dimensional solution.
+
+Begin Errors wrt model
+	Labou 	Chris 	Right 	Left  	Left- 	Right 	    	    	        Err  	Err	Name
+	r Par 	tian  	 Wing 	Wing  	vario 	 –  	  Dim0        	    Sum	    to null 	    to model	  Name
+	   0.0	   0.1	   0.6	   0.9	   0.0	   0.1	   0.184	1083.000	  65.450	   1.621	Rural
+	   0.2	   1.0	   2.3	   0.4	   0.3	   0.3	   0.207	2083.000	  84.486	   4.519	Rural, Industrialized
+	   0.1	   0.2	   0.0	   0.0	   0.8	   0.6	   0.119	1349.000	  79.011	   1.675	Commuter
+	   0.3	   2.6	   1.8	   2.5	   0.3	   0.7	   0.268	 976.000	   3.648	   8.279	Small City
+	   0.0	   4.2	   2.3	   3.4	   1.5	   0.5	   0.040	1417.000	  16.239	  11.937	Middle Large City
+	   0.0	   1.6	   0.9	   2.2	   0.2	   4.1	  -0.001	2062.000	 176.674	   8.990	Large City
+	  -0.651	   0.164	   0.121	   0.097	  -0.117	   0.181
+	3047.000	3164.000	1585.000	 561.000	 283.000	 330.000
+	 120.643	 136.013	  62.034	  20.445	  46.282	  40.093
+	   0.571	   9.535	   7.931	   9.505	   3.228	   6.251
+	Labour Party – PvdA	Christian Democrats – CDA	Right Wing Liberals – VVD	Left Wing Liberals – D66	Left-various	Right – various mostly religious
+
+

@@ -1,0 +1,8 @@
+Start: minkowski:   2.00    attenuation   0.50  d_start  0.100  Reach:  error        46.37minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   0.50  d_start  0.200  Reach:  error        26.64minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   0.75  d_start  0.100  Reach:  error        32.83minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   0.75  d_start  0.200  Reach:  error        19.28minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   1.00  d_start  0.100  Reach:  error        37.02minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   1.00  d_start  0.200  Reach:  error        26.23minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   2.00  d_start  0.100  Reach:  error        35.59minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28
+Start: minkowski:   2.00    attenuation   2.00  d_start  0.200  Reach:  error        77.62minkowski:    2.00    attenuation    2.00  best_of_scanned:   19.28

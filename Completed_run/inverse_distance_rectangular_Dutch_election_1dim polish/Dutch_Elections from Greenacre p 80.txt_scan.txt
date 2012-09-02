@@ -1,0 +1,1 @@
+Start: minkowski:   2.00    attenuation   0.75  d_start  0.200  Reach:  error        19.03minkowski:    2.00    attenuation    0.75  best_of_scanned:   19.03

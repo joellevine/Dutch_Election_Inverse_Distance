@@ -1,0 +1,20 @@
+6
+6
+285,482,186,49,21,60
+620,914,308,102,42,97
+355,460,347,104,36,47
+336,337,168,62,27,46
+548,455,233,91,47,43
+903,516,343,153,110,37
+Rural
+Rural, Industrialized
+Commuter
+Small City
+Middle Large City
+Large City
+Labour Party – PvdA
+Christian Democrats – CDA
+Right Wing Liberals – VVD
+Left Wing Liberals – D66
+Left-various
+Right – various mostly religious
